@@ -1,0 +1,14 @@
+C:\Users\Arthu\source\repos\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\Arthu\source\repos\Compilador\bin\Debug\Compilador.exe
+C:\Users\Arthu\source\repos\Compilador\bin\Debug\Compilador.pdb
+C:\Users\Arthu\source\repos\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\Arthu\source\repos\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Arthu\source\repos\Compilador\obj\Debug\Compilador.exe
+C:\Users\Arthu\source\repos\Compilador\obj\Debug\Compilador.pdb
+C:\Users\Arthur.Menezes\Desktop\Compilador\bin\Debug\Compilador.exe.config
+C:\Users\Arthur.Menezes\Desktop\Compilador\bin\Debug\Compilador.exe
+C:\Users\Arthur.Menezes\Desktop\Compilador\bin\Debug\Compilador.pdb
+C:\Users\Arthur.Menezes\Desktop\Compilador\obj\Debug\Compilador.csprojAssemblyReference.cache
+C:\Users\Arthur.Menezes\Desktop\Compilador\obj\Debug\Compilador.csproj.CoreCompileInputs.cache
+C:\Users\Arthur.Menezes\Desktop\Compilador\obj\Debug\Compilador.exe
+C:\Users\Arthur.Menezes\Desktop\Compilador\obj\Debug\Compilador.pdb
